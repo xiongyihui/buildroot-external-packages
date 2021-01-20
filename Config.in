@@ -1,0 +1,2 @@
+source "$BR2_EXTERNAL_EXT_PATH/package/Config.in"
+

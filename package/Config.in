@@ -1,0 +1,5 @@
+menu "External packages"
+
+source "$BR2_EXTERNAL_EXT_PATH/package/hello/Config.in"
+
+endmenu
